@@ -1,0 +1,8 @@
+************* Module scheduler_system
+scheduler_system.py:10:0: C0103: Constant name "next_reservation" doesn't conform to UPPER_CASE naming style (invalid-name)
+scheduler_system.py:27:12: R1716: Simplify chained comparison between the operands: 0 <= start < end <= 24 and end >= 1 (chained-comparison)
+scheduler_system.py:35:4: W0603: Using the global statement (global-statement)
+
+-----------------------------------
+Your code has been rated at 9.65/10
+
